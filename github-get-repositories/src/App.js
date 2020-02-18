@@ -7,7 +7,7 @@ import Pagination from 'react-js-pagination';
 import Commits from './components/Commits';
 import Repos from './components/Repos'
 
-const octokit = new Octokit({ auth: '52ade2032c495a5d181acd0abaada5ce3febefd0' });
+const octokit = new Octokit();
 
 const particlesOptions = {
   particles: {
