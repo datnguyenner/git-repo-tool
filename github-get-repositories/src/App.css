@@ -67,6 +67,8 @@ input {
 .column.two {
   width: 70%;
   margin-left: 10px;
+  height: 1000px;
+  overflow: auto;
 }
 
 .column.two h2{
