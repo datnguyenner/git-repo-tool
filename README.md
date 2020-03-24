@@ -1,4 +1,4 @@
-# netflix-interview
+# git-repo-tool
 
 - git clone
 - cd github-get-repositories
